@@ -1,1 +1,1 @@
-<img src="./assets/tao.gif" width="800px" />
+<img src="./assets/tao.gif" width="1000px" />
